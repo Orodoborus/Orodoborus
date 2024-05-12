@@ -40,6 +40,6 @@ Hi there! I'm a versatile full-stack developer passionate about crafting robust 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Let's Connect!
-📫 Feel free to reach out to me via [email](mailto:d.high@hotmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/d-andre-wolbrom-highfield-2060321b7/)).
+📫 Feel free to reach out to me via [email](mailto:d.high@hotmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/d-andre-wolbrom-highfield-2060321b7/).
 
 Looking forward to collaborating with you!
